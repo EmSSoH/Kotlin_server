@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="92f20de7-5eed-4586-9b86-aa8f1e5d6051" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/dk/cphbusiness/coroutines/server/data/GenerateData.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/dk/cphbusiness/coroutines/server/data/GenerateData.kt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />

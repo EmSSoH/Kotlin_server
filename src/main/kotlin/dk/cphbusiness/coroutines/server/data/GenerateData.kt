@@ -8,8 +8,8 @@ import java.lang.StringBuilder
 import kotlin.random.Random
 
 class GenerateData {
-    val nicknames = listOf<String>("Xtremekilla", "CringePwn69", "TotallyNot12", "UrMomGay", "420BlazeIt")
-    val scores = listOf<Int>(1000, 2000, 3000, 4000, 5000)
+    val nicknames = listOf<String>("EmSSoH", "Hassuni", "GamerBoi420", "BabyYoda", "MillennialScreamer", "ReeKid", "CornerCamper", "LootGoblin")
+    val scores = listOf<Int>(420, 1000, 1337, 2000, 3000, 4000, 5000)
 
     fun generateGamers(amount: Int) : MutableMap<Int, Gamer> {
         val gamers: MutableMap<Int, Gamer> = mutableMapOf()
